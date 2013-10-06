@@ -19,5 +19,5 @@
 #
 # In particular, you can add lunch options with the add_lunch_combo
 # function: add_lunch_combo generic-eng
-add_lunch_combo cm_tc2-userdebug
-add_lunch_combo cm_tc2_ul-eng
+add_lunch_combo cm_totemc2-userdebug
+add_lunch_combo cm_totemc2_ul-eng
